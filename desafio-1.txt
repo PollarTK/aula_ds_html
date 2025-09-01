@@ -6,7 +6,7 @@ A imagem a ser usada está nos downloads da aula e ela deve ter 400px de largura
 
 O título principal deve ser "Smart TV 75" da marca XYZ".
 
-Precisamos de um link com o texto "Quero comprar agora mesmo!" levar a uma pagina de pagamento, porem apresentará apenas um titulo pagamento(nova aba).
+Precisamos de um link com o texto "Quero comprar agora mesmo!" levar a uma pagina de pagamento, porem apresentará apenas um titulo pagamento(nova aba) e um link para retornar a pagina home. 
 
 A próxima seção da página é a seção de preço. O título deve ser "Preço" e os textos da seção "R$ 4.999 ou 12xR$ 416,58" e "Desconto de 10% no PIX", sendo que queremos dar importância ao texto "R$ 4.999" e apenas deixar em negrito o texto "Desconto de 10%".
 
